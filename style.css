@@ -10,3 +10,7 @@ ul{
     font-size: x-large;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+.home-image{
+    width: 250px;
+    border: 1px solid black;
+}
