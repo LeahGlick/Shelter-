@@ -14,3 +14,9 @@ ul{
     width: 250px;
     border: 1px solid black;
 }
+.footer{
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+}
